@@ -1,2 +1,4 @@
-# Hemmersbach-at-work-click
-A php script to be used as a CRON in WWW hosting provider to check you in as at work on Hemmersbach's portal using your custom link.
+# Objective
+If you are a Hemmersbach engineer you need to log into work every day.
+
+This is a php script to be used as a CRON job using web hosting providers to check you in using your custom link.
