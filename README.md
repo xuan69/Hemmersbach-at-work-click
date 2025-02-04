@@ -1,4 +1,7 @@
-# Objective
+## Objective
 If you are a Hemmersbach engineer you need to log into work every day.
 
-This is a php script to be used as a CRON job using web hosting providers to check you in using your custom link.
+## Usage
+This is a php script to be used as a CRON job using a web hosting provider to check you in using your custom link. 
+
+Edit the script and add your custom url.
